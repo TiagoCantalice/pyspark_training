@@ -1,2 +1,4 @@
 # pyspark_training
-Training codes and models in pyspark
+A simple way to dummify a categorical column in PySpark.
+
+Feel free to use! :)
